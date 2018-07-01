@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pyous\AndroidStudioProjects\MapAppFinal\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\pyous\AndroidStudioProjects\MapAppFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6f20b914300bcd7dc258aab9d953a243f7fa27b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pyous\AndroidStudioProjects\MapAppFinal\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="580d3df3085eb547598a18016abc75adc5cc5833">
+        <dex dex="C:\Users\pyous\AndroidStudioProjects\MapAppFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d1525def97aa2a5b9da37e15c8b64ad766da20a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pyous\.android\build-cache\3be384e4c2074d65e2f68e8801bf4d0b17c16435\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="C:\Users\pyous\AndroidStudioProjects\MapAppFinal\app\build\intermediates\pre-dexed\debug\classes_60b313bab7f62e68b3119aaa16e5aff4fbbd3675.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pyous\.android\build-cache\3be384e4c2074d65e2f68e8801bf4d0b17c16435\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e41a052c714bf67f743c22ed74153422ad773f88">
+        <dex dex="C:\Users\pyous\AndroidStudioProjects\MapAppFinal\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_60b313bab7f62e68b3119aaa16e5aff4fbbd3675\classes.dex" />
+    </item>
+
+</items>
